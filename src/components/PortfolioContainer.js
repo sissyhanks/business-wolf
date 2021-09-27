@@ -20,14 +20,16 @@ export default function PortfolioContainer() {
     return <Contact />;
   };
 
-  const changeTab = (content) => setTab(content);
+  const changeTab = (page) => setTab(page);
 
   return (
     <div>
 
       {/* Here we are calling the renderPage method which will return a component  */}
       <body>
-        <Header />
+        <Header
+        />
+        <NavTabs tab={tab} changeTab={changeTab} />
         <div> {renderPage()}</div>
         <Footer />
       </body>
