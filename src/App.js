@@ -11,9 +11,7 @@ function App(){
 
   return (
     <div className="container">
-      <Header currentPage={currentPage} />
-      <PortfolioContainer currentPage={currentPage} />
-      <Footer />
+      <PortfolioContainer />
     </div>
   );
 }
