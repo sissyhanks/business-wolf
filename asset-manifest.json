@@ -1,22 +1,25 @@
 {
   "files": {
     "main.css": "/business-wolf/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/business-wolf/static/js/main.a602e177.chunk.js",
-    "main.js.map": "/business-wolf/static/js/main.a602e177.chunk.js.map",
+    "main.js": "/business-wolf/static/js/main.5f38c42f.chunk.js",
+    "main.js.map": "/business-wolf/static/js/main.5f38c42f.chunk.js.map",
     "runtime-main.js": "/business-wolf/static/js/runtime-main.981f8e9c.js",
     "runtime-main.js.map": "/business-wolf/static/js/runtime-main.981f8e9c.js.map",
-    "static/js/2.60d6bc41.chunk.js": "/business-wolf/static/js/2.60d6bc41.chunk.js",
-    "static/js/2.60d6bc41.chunk.js.map": "/business-wolf/static/js/2.60d6bc41.chunk.js.map",
+    "static/js/2.2d7481e6.chunk.js": "/business-wolf/static/js/2.2d7481e6.chunk.js",
+    "static/js/2.2d7481e6.chunk.js.map": "/business-wolf/static/js/2.2d7481e6.chunk.js.map",
     "static/js/3.ca3be0c9.chunk.js": "/business-wolf/static/js/3.ca3be0c9.chunk.js",
     "static/js/3.ca3be0c9.chunk.js.map": "/business-wolf/static/js/3.ca3be0c9.chunk.js.map",
     "index.html": "/business-wolf/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/business-wolf/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.60d6bc41.chunk.js.LICENSE.txt": "/business-wolf/static/js/2.60d6bc41.chunk.js.LICENSE.txt"
+    "static/js/2.2d7481e6.chunk.js.LICENSE.txt": "/business-wolf/static/js/2.2d7481e6.chunk.js.LICENSE.txt",
+    "static/media/howl.46f952b2.jpg": "/business-wolf/static/media/howl.46f952b2.jpg",
+    "static/media/hunt.8938fd2b.jpg": "/business-wolf/static/media/hunt.8938fd2b.jpg",
+    "static/media/pack.b2cf008c.jpg": "/business-wolf/static/media/pack.b2cf008c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.981f8e9c.js",
-    "static/js/2.60d6bc41.chunk.js",
+    "static/js/2.2d7481e6.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.a602e177.chunk.js"
+    "static/js/main.5f38c42f.chunk.js"
   ]
 }
