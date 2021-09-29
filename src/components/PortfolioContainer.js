@@ -6,6 +6,7 @@ import Portfolio from './pages/Portfolio';
 import Contact from './pages/Contact';
 import Footer from './Footer';
 
+import webSites from '../webSites';
 export default function PortfolioContainer() {
   const [tab, setTab] = useState ("About");
 
@@ -15,7 +16,7 @@ export default function PortfolioContainer() {
       return <About />;
     }
     if (tab === 'Portfolio') {
-      return <Portfolio />;
+      return <Portfolio webSites={webSites}/>;
     }
     return <Contact />;
   };
